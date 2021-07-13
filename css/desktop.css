@@ -1,6 +1,13 @@
+.main-tables-container {
+    overflow-x: hidden;
+}
 .product-cards--container {
     display: flex;
     flex-wrap: wrap;
     width: 930px;
     margin: 0 auto;
+}
+.plans-container--slider{
+    height: 317px;
+    overflow-x: hidden;
 }
